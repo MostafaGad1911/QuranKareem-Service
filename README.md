@@ -2,7 +2,7 @@
 WebService للقرآن الكريم
 
 # Base Url
-[Base url]()
+
 https://mostafagad9090.000webhostapp.com/QuranService/
 
 # Service name 
