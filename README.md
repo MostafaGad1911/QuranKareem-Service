@@ -6,7 +6,7 @@ WebService للقرآن الكريم
 
 # Service name 
    
-   [GetQuran.php]
+   [GetQuran.php]()
    
 # Documentaion
 
