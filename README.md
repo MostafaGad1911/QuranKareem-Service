@@ -6,7 +6,7 @@ WebService للقرآن الكريم
 
 # Documentaion
 
-<img src="https://user-images.githubusercontent.com/25991597/55321815-dfdc2280-547a-11e9-938a-d010effaccab.PNG" width="700" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/55321815-dfdc2280-547a-11e9-938a-d010effaccab.PNG" width="700" height="200" />
 
 # Try it on POST MAN
 
