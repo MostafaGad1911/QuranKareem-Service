@@ -32,7 +32,7 @@ https://mostafagad9090.000webhostapp.com/QuranService/
                      reader_id = 9 
                      return القرآن الكريم بصوت الشيخ فـــــارس عـــباد
                      
-# Try it on POST MAN
+# Try it on Post man
 
 <img src="https://user-images.githubusercontent.com/25991597/55321816-dfdc2280-547a-11e9-8bfb-0072a1ac7099.PNG" width="700" height="400" />
 
