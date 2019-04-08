@@ -32,9 +32,14 @@ https://mostafagad9090.000webhostapp.com/QuranService/
                      reader_id = 9 
                      return القرآن الكريم بصوت الشيخ فـــــارس عـــباد
                      reader_id = 10 
-                     return القرآن الكريم بصوت الشيخ وديــــع اليمني"
+                     return القرآن الكريم بصوت الشيخ وديــــع اليمني
                      reader_id = 11 
                      return القرآن الكريم بصوت الشيخ مـــحمد الطبلاوى
+                     reader_id = 12 
+                     return القرآن الكريم بصوت الشيخ أحــمد الحذيفى
+                     reader_id = 13 
+                     return القرآن الكريم بصوت الشيخ نــاصر القطامي
+
                      
 # Try it on Post man
 
