@@ -31,6 +31,10 @@ https://mostafagad9090.000webhostapp.com/QuranService/
                      return القرآن الكريم بصوت الشيخ محمد صديق المنشاوى
                      reader_id = 9 
                      return القرآن الكريم بصوت الشيخ فـــــارس عـــباد
+                     reader_id = 10 
+                     return القرآن الكريم بصوت الشيخ وديــــع اليمني"
+                     reader_id = 11 
+                     return القرآن الكريم بصوت الشيخ مـــحمد الطبلاوى
                      
 # Try it on Post man
 
