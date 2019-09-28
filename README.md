@@ -52,7 +52,8 @@ https://mostafagad9090.000webhostapp.com/QuranService/GetQuran.php
                      return القرآن الكريم بصوت الشيخ إدريس أبكر 
                      reader_id = 19
                      return القرآن الكريم بصوت الشيخ محمود خليل الحصري 
-                     
+                     reader_id = 20
+                     return القرآن الكريم بصوت الشيخ محمد حسان    
 # Try it on Post man
 
 <img src="https://user-images.githubusercontent.com/25991597/65613738-bf6acc00-dfb6-11e9-881b-f2a6324da3ea.PNG" width="700" height="400" />
