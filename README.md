@@ -48,6 +48,10 @@ https://mostafagad9090.000webhostapp.com/QuranService/GetQuran.php
                      return القرآن الكريم بصوت الشيخ بندر بليلة
                      reader_id = 17
                      return القرآن الكريم بصوت الشيخ سعود الشريم 
+                     reader_id = 18
+                     return القرآن الكريم بصوت الشيخ إدريس أبكر 
+                     reader_id = 19
+                     return القرآن الكريم بصوت الشيخ محمود خليل الحصري 
                      
 # Try it on Post man
 
