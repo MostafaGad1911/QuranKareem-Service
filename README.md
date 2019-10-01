@@ -56,6 +56,15 @@ https://mostafagad9090.000webhostapp.com/QuranService/GetQuran.php
                      return القرآن الكريم بصوت الشيخ محمد حسان   
                      reader_id = 21
                      return القرآن الكريم بصوت الشيخ أحمد خضر الطرابلسي
+                     reader_id = 22
+                     return القرآن الكريم بصوت الشيخ أبو بكر الشاطري
+                     reader_id = 23
+                     return القرآن الكريم بصوت الشيخ ياسر القرشي
+                     reader_id = 24
+                     return القرآن الكريم بصوت الشيخ عبدالله خياط
+                     reader_id = 25
+                     return القرآن الكريم بصوت الشيخ عادل ريان
+
 # Try it on Post man
 
 <img src="https://user-images.githubusercontent.com/25991597/65814643-eb6b9480-e1e4-11e9-80bb-3d31679ca2a9.PNG" width="700" height="400" />
