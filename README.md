@@ -66,7 +66,7 @@ https://mostafagad9090.000webhostapp.com/QuranService/GetQuran.php
                      return القرآن الكريم بصوت الشيخ عادل ريان
 
 # Apps service used in
-  -  Nabta
+  -  Nabta : 
           https://play.google.com/store/apps/details?id=education.mostafa.quranyapp.quranapp
 
 # Try it on Post man
