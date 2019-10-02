@@ -2,9 +2,9 @@
 WebService للقرآن الكريم
 
 # Apps service used in
- <img  src = "https://user-images.githubusercontent.com/25991597/66054450-4b8b6f00-e534-11e9-9c9f-8c815b19c3ac.png" width="100"          height="100" />
+ Nabta : <img  src = "https://user-images.githubusercontent.com/25991597/66054450-4b8b6f00-e534-11e9-9c9f-8c815b19c3ac.png" width="100"          height="100" />
  
-         Nabta :  https://play.google.com/store/apps/details?id=education.mostafa.quranyapp.quranapp
+         https://play.google.com/store/apps/details?id=education.mostafa.quranyapp.quranapp
 # Base Url
 
 https://mostafagad9090.000webhostapp.com/QuranService/GetQuran.php
