@@ -3,7 +3,7 @@ WebService للقرآن الكريم
 
 # App related  
 
- <img src = "https://user-images.githubusercontent.com/25991597/66054450-4b8b6f00-e534-11e9-9c9f-8c815b19c3ac.png" width="100" height="100" />
+ <img align="center" src = "https://user-images.githubusercontent.com/25991597/66054450-4b8b6f00-e534-11e9-9c9f-8c815b19c3ac.png" width="100" height="100" />
  
  https://play.google.com/store/apps/details?id=education.mostafa.quranyapp.quranapp
 
