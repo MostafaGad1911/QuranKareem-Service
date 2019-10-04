@@ -65,11 +65,10 @@ https://mostafagad9090.000webhostapp.com/QuranService/GetQuran.php
                      reader_id = 25
                      return القرآن الكريم بصوت الشيخ عادل ريان
 
-# Apps service used in
+# Apps using the service
   -  Nabta : 
           https://play.google.com/store/apps/details?id=education.mostafa.quranyapp.quranapp
 
 # Try it on Post man
 
 <img src="https://user-images.githubusercontent.com/25991597/65971742-f9314c00-e468-11e9-95f2-b459c6b4805f.PNG" width="700" height="400" />
-
