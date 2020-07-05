@@ -3,7 +3,7 @@ WebService للقرآن الكريم
 
 # Base Url
 
-gad25.xyz/Quran/QuranShared.php
+gad25.xyz/Quran/
 
 
 # Service name 
