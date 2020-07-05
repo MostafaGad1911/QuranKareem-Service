@@ -62,6 +62,11 @@ gad25.xyz/Quran/
                      return القرآن الكريم بصوت الشيخ عبدالله خياط
                      reader_id = 24
                      return القرآن الكريم بصوت الشيخ عادل ريان
+                     reader_id = 25
+                     return القرآن الكريم بصوت الشيخ أحمد نعينع
+                     reader_id = 26
+                     return القرآن الكريم بصوت الشيخ محمود علي البنا
+                     
 
 
 # Try it on Post man
