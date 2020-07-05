@@ -8,7 +8,7 @@ gad25.xyz/Quran/QuranShared.php
 
 # Service name 
    
-   [GetQuran.php]()
+   [QuranShared.php]()
    
 # Documentaion
           Name : QuranShared.php 
