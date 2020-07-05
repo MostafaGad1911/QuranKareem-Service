@@ -5,10 +5,10 @@ WebService للقرآن الكريم
 
 gad25.xyz/Quran/
 
-
 # Service name 
    
    [QuranShared.php]()
+   
    
 # Documentaion
           Name : QuranShared.php 
@@ -66,4 +66,10 @@ gad25.xyz/Quran/
 
 # Try it on Post man
 
-<img src="https://user-images.githubusercontent.com/25991597/86540168-5fb92e00-bf03-11ea-8ac7-4f1e3ccf58d1.PNG" width="700" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/86540168-5fb92e00-bf03-11ea-8ac7-4f1e3ccf58d1.PNG" width="800" height="400" />
+
+# Azkae 
+
+   [Azkar.php]()
+           
+<img src="https://user-images.githubusercontent.com/25991597/86541708-41f1c600-bf0f-11ea-8ef8-a336bf071a63.PNG" width="800" height="400" />
