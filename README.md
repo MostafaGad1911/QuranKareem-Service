@@ -68,7 +68,7 @@ gad25.xyz/Quran/
 
 <img src="https://user-images.githubusercontent.com/25991597/86540168-5fb92e00-bf03-11ea-8ac7-4f1e3ccf58d1.PNG" width="800" height="400" />
 
-# Azkae 
+# Azkar 
 
    [Azkar.php]()
            
