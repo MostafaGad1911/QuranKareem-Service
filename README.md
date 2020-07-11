@@ -82,4 +82,4 @@ WebService للقرآن الكريم
 
    [Azkar.php]()
            
-<img src="https://user-images.githubusercontent.com/25991597/86541708-41f1c600-bf0f-11ea-8ef8-a336bf071a63.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/87234249-7f52c980-c3cf-11ea-862e-ee3e486c6bef.PNG" width="800" height="400" />
