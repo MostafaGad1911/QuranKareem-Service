@@ -76,7 +76,7 @@ WebService للقرآن الكريم
 
 # Try it on Post man
 
-<img src="https://user-images.githubusercontent.com/25991597/86540168-5fb92e00-bf03-11ea-8ac7-4f1e3ccf58d1.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/87234218-31d65c80-c3cf-11ea-8f87-b931dbc0f176.PNG" width="800" height="400" />
 
 # Azkar 
 
