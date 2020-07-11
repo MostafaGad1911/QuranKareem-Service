@@ -3,7 +3,7 @@ WebService للقرآن الكريم
 
 # Base Url
 
-gad25.xyz/Quran/
+ https://gad25.xyz/Quran/
 
 # Service name 
    
@@ -68,6 +68,8 @@ gad25.xyz/Quran/
                      return القرآن الكريم بصوت الشيخ محمود علي البنا
                      reader_id = 27
                      return القرآن الكريم بصوت الشيخ هزاع البلوشي
+                     reader_id = 28
+                     return القرآن الكريم بصوت الشيخ محمد رفعت
                                  
                    
 
