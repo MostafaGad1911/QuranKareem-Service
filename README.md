@@ -80,11 +80,11 @@ WebService للقرآن الكريم
 
  Arabic version
        
-<img src="https://user-images.githubusercontent.com/25991597/87741110-fcbd7600-c7e3-11ea-937f-4773a32d0d53.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/87824679-02fc3280-c876-11ea-8bd0-d8dcf119450e.PNG" width="800" height="400" />
      
  English version
   
-<img src="https://user-images.githubusercontent.com/25991597/87741115-ff1fd000-c7e3-11ea-830e-b9c02372cfd5.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/87824676-01cb0580-c876-11ea-9a91-411dcc27d0a4.PNG" width="800" height="400" />
           
      
 
