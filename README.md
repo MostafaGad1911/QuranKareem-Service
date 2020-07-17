@@ -16,14 +16,6 @@ WebService للقرآن الكريم
           
           # lang ( var char ) (ar | en )  -- 'Optional parameter , the default language is arabic'
                
-          ar 
-         <img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
-          en 
-          <img src="https://user-images.githubusercontent.com/25991597/87735697-8ebe8200-c7d6-11ea-89b2-ef783d7179f3.PNG" width="800" height="400" />
-          
-     
-
- 
           # reader_id (int)
           Output :  
                      reader_id = 1 
@@ -87,6 +79,14 @@ WebService للقرآن الكريم
 
 
 # Try it on Post man
+
+ # Arabic version
+         <img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
+     
+ # English version
+     <img src="https://user-images.githubusercontent.com/25991597/87735697-8ebe8200-c7d6-11ea-89b2-ef783d7179f3.PNG" width="800" height="400" />
+          
+     
 
 <img src="https://user-images.githubusercontent.com/25991597/87234218-31d65c80-c3cf-11ea-8f87-b931dbc0f176.PNG" width="800" height="400" />
 
