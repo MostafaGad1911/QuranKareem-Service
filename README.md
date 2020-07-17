@@ -13,9 +13,9 @@ WebService للقرآن الكريم
 # Documentaion
           Name : QuranShared.php 
           
-   Headers : 
+         # Headers : 
                     # lang ( String ) (ar | en )  -- 'Optional parameter , the default language is arabic'
-   Parameters :                
+         # Parameters :                
           # reader_id (int)
           Output :  
                      reader_id = 1 
