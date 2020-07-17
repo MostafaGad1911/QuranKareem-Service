@@ -12,7 +12,19 @@ WebService للقرآن الكريم
    
 # Documentaion
           Name : QuranShared.php 
-          Parameters : reader_id (int)
+          Parameters : 
+          
+          # lang ( var char ) (ar | en )  -- 'Optional parameter , the default language is arabic'
+               
+          ar 
+         <img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
+          en 
+          <img src="https://user-images.githubusercontent.com/25991597/87735697-8ebe8200-c7d6-11ea-89b2-ef783d7179f3.PNG" width="800" height="400" />
+          
+     
+
+ 
+          # reader_id (int)
           Output :  
                      reader_id = 1 
                      return القرآن الكريم بصوت الشيخ مشارى العفاسى
