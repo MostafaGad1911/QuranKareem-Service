@@ -12,10 +12,10 @@ WebService للقرآن الكريم
    
 # Documentaion
           Name : QuranShared.php 
-          Parameters : 
           
-          # lang ( String ) (ar | en )  -- 'Optional parameter , the default language is arabic'
-               
+          Headers : 
+                    # lang ( String ) (ar | en )  -- 'Optional parameter , the default language is arabic'
+          Parameters :                
           # reader_id (int)
           Output :  
                      reader_id = 1 
@@ -82,11 +82,11 @@ WebService للقرآن الكريم
 
  Arabic version
        
-<img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/87741110-fcbd7600-c7e3-11ea-937f-4773a32d0d53.PNG" width="800" height="400" />
      
  English version
   
-<img src="https://user-images.githubusercontent.com/25991597/87735697-8ebe8200-c7d6-11ea-89b2-ef783d7179f3.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/87741115-ff1fd000-c7e3-11ea-830e-b9c02372cfd5.PNG" width="800" height="400" />
           
      
 
