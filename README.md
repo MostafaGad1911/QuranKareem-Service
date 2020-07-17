@@ -14,7 +14,7 @@ WebService للقرآن الكريم
           Name : QuranShared.php 
           Parameters : 
           
-          # lang ( var char ) (ar | en )  -- 'Optional parameter , the default language is arabic'
+          # lang ( String ) (ar | en )  -- 'Optional parameter , the default language is arabic'
                
           # reader_id (int)
           Output :  
@@ -81,10 +81,12 @@ WebService للقرآن الكريم
 # Try it on Post man
 
  # Arabic version
-         <img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
+       
+       <img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
      
  # English version
-     <img src="https://user-images.githubusercontent.com/25991597/87735697-8ebe8200-c7d6-11ea-89b2-ef783d7179f3.PNG" width="800" height="400" />
+  
+      <img src="https://user-images.githubusercontent.com/25991597/87735697-8ebe8200-c7d6-11ea-89b2-ef783d7179f3.PNG" width="800" height="400" />
           
      
 
