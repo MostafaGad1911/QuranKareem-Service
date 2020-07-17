@@ -82,15 +82,13 @@ WebService للقرآن الكريم
 
  Arabic version
        
-       <img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/87735700-8fefaf00-c7d6-11ea-9e8b-0e193fb6c9a9.PNG" width="800" height="400" />
      
  English version
   
 <img src="https://user-images.githubusercontent.com/25991597/87234218-31d65c80-c3cf-11ea-8f87-b931dbc0f176.PNG" width="800" height="400" />
           
      
-
-<img src="https://user-images.githubusercontent.com/25991597/87234218-31d65c80-c3cf-11ea-8f87-b931dbc0f176.PNG" width="800" height="400" />
 
 # Azkar 
 
