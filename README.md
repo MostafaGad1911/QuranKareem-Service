@@ -15,7 +15,9 @@ WebService للقرآن الكريم
           
          - Headers : lang ( String ) (ar | en )          -- 'Optional header , the default language is arabic'
          
-         - Parameters : reader_id (int)
+         - Parameters :
+              - sura ( string ) optional parameter u can use it filter results  with SuranName
+              - reader_id (int)
                      reader_id = 1 
                      return القرآن الكريم بصوت الشيخ مشارى العفاسى
                      reader_id = 2 
@@ -78,14 +80,19 @@ WebService للقرآن الكريم
 
 # Try it on Post man
 
+Search 
+
+ <img src="https://user-images.githubusercontent.com/25991597/89069404-5ccf2300-d373-11ea-950f-00257de813bd.PNG" width="800" height="400" />
+
  Arabic version
        
-<img src="https://user-images.githubusercontent.com/25991597/87824679-02fc3280-c876-11ea-8bd0-d8dcf119450e.PNG" width="800" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/89069404-5ccf2300-d373-11ea-950f-00257de813bd.PNG" width="800" height="400" />
      
  English version
   
 <img src="https://user-images.githubusercontent.com/25991597/87824676-01cb0580-c876-11ea-9a91-411dcc27d0a4.PNG" width="800" height="400" />
-          
+
+
      
 
 # Azkar 
